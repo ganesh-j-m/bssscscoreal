@@ -1,0 +1,6 @@
+{
+  "name": "SCSCO College Digital Platform",
+  "description": "Comprehensive official college digital platform and ERP campus portal for Sharadabai Pawar College, Omerga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
